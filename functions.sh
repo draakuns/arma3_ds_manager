@@ -162,3 +162,4 @@ fn_copy_keys()
         find ${WORKSHOP_DIR} -type f -name '*.bikey' -exec cp {} ${KEY_DIR}  \;
         echo "INFO: MOD signed keys copied to A3 keys datastore"
 }
+
